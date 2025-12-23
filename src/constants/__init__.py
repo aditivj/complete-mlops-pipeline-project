@@ -72,4 +72,4 @@ MODEL_PUSHER_S3_KEY = "model-registry"
 
 
 APP_HOST = "0.0.0.0"
-APP_PORT = 8000
+APP_PORT = 8000    #port 5000 is occupied and can't be killed
